@@ -1,4 +1,11 @@
-### Hi there 👋
+# #include "Introduction.h"
+Name : Lee Jae-Jin (Last to First)
+
+Date of Birth : 2000.02.18
+
+Country : South Korea
+
+Nickname : Jejusbluesea
 
 <!--
 **jejusbluesea/jejusbluesea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
